@@ -1,0 +1,1 @@
+ A detailed PowerBI analysis incorporating multiple Excel datasets to unveil sales trends across various regions. This project highlights regional market strengths, opportunities, and offers a comparative understanding of diverse sales landscapes.
